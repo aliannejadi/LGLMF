@@ -10,12 +10,23 @@ You need just run the `recommendation.py`
 
 - To change the dataset, you have to write its name in the `recommendation.py`.
 
-## Cite
+## Citation
 Please cite our paper if you use our datasets or implementations:
 
 ```
-Hossein A. Rahmani, Mohammad Aliannejadi, Sajad Ahmadian, Mitra Baratchi, Mohsen Afsharchi, and Fabio Crestani. "LGLMF: Local Geographical based Logistic Matrix Factorization Model for POI Recommendation", Asia Information Retrieval Societies Conference (AIRS), Hong Kong, China, (2019)
-```
+@inproceedings{RahmaniAirs19,
+  author    = {Hossein A. Rahmani and
+               Mohammad Aliannejadi and
+               Sajad Ahmadian and
+               Mitra Baratchi and
+               Mohsen Afsharchi and
+               Fabio Crestani},
+  title     = {{LGLMF:} Local Geographical based Logistic Matrix Factorization Model
+               for {POI} Recommendation},
+  booktitle = {Asia Information Retrieval Societies Conference (AIRS), Hong Kong, China},
+  year      = {2019}
+  }
+  ```
 
 This repository contains the implementation of the Local Geographical based Logistic Matrix Factorization Model for POI Recommendation proposed in the AIRS 2019 paper. More details will be updated later.
 
